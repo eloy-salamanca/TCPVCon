@@ -2,7 +2,7 @@
 E2E Security Data Gathering
 
 Eloy Salamanca | Senior IT Consultant
-eloy.salamanca@guadaltech.es
+me@eloysalamanca.es
 
 Part of E2E Security Project 
 
@@ -31,17 +31,18 @@ LEGAL DISCLAIMER
 
 .NOTES
 	Name                : Set-TCPVConRollOut.ps1
-	Author              : Eloy Salamanca <eloy.salamanca@guadaltech.es>
+	Author              : Eloy Salamanca <me@eloysalamanca.es>
 	Last Edit           : 29/11/2017
 	Current Version     : 1.0
 
-	History				: 1.0 - Posted 29/11/2017 - First iteration
+	History		: 1.0 - Posted 29/11/2017 - First iteration
 
-	Rights Required		: Local admin on workshop for installing applications
+	Rights Required	: Local admin on workshop for installing applications
                         : Set-ExecutionPolicy to 'Unrestricted' for the .ps1 file to execute the installs
 
 .LINK
-
+	https://eloysalamanca.es
+	
 .FUNCTIONALITY
    Part of Capacity Planning Data Gathering Report,
    to save performance information of single servers into SQL db.
